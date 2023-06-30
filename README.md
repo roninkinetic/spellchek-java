@@ -1,0 +1,1 @@
+# spellchek-java
